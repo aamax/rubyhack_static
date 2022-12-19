@@ -1,0 +1,1 @@
+# rubyhack_static
